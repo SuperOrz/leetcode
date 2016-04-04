@@ -1,6 +1,6 @@
 package com.leetcode;
 
-public class No2_add_two_numbers {
+public class No2_Add_Two_Numbers {
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		if (l1 == null)
 			return l2;
