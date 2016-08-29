@@ -1,12 +1,4 @@
 package com.leetcode;
-class ListNode {
-	      int val;
-	      ListNode next;
-	      ListNode(int x) {
-	          val = x;
-	          next = null;
-	      }
-	  }
 public class No142_Linked_List_Cycle_II {
 	public ListNode detectCycle(ListNode head) {
         ListNode fast = head;
